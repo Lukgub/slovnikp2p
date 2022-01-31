@@ -1,0 +1,242 @@
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATELOC"TEAM"
+<-TRANSLATESUC"t�m"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATELOC"ATA
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATEANY"FORTRESS"
+<-TRANSLATESUC"pevnost"
+->sup
+<-TRANSLATEERR"Chyba s prekladem"
+->bub
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATEANY"TWO"
+<-TRANSLATESUC"dva"
+->stop
+<-TRANSLATEERR"Chyba s prekladem"
+->
+->stop
+<-
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->aa
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATEREM"alarm"
+<-TRANSLATEERR"alarm nelze prelozit."
+->TRANSLATELOC"BABABOY"
+<-TRANSLATEERR"bababoy nelze prelozit."
+->
+->TRANSLATELOC"marker"
+<-TRANSLATEERR"marker nelze prelozit."
+->
+->TRANSLATELOC"BABABOY"
+<-TRANSLATEERR"bababoy nelze prelozit."
+->
+->TRANSLATELOC"marker"
+<-TRANSLATEERR"marker nelze prelozit."
+->
+->TRANSLATEREM"MARKER"
+<-TRANSLATEERR"marker nelze prelozit."
+->
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->ahoj
+<-TRANSLATEERR"Chyba s prekladem"
+->
+->TRANSLATELOC"ass"
+<-TRANSLATEERR"ass nelze prelozit."
+->
+->
+->
+->TRANSLATELOC"team"
+<-TRANSLATESUC"t�m"
+->
+->
+->
+->
+->TRANSLATELOC"imma fuck your fucking life"
+<-TRANSLATEERR"imma fuck your fucking life nelze prelozit."
+->
+->TRANSLATELOC"imma fuck your fucking life"
+<-TRANSLATEERR"imma fuck your fucking life nelze prelozit."
+->
+->TRANSLATELOC"imma fuck your fucking life"
+<-TRANSLATEERR"imma fuck your fucking life nelze prelozit."
+->
+->TRANSLATELOC"imma fuck your fucking life"
+<-TRANSLATEERR"imma fuck your fucking life nelze prelozit."
+->
+->TRANSLATELOC"imma fuck your fucking life"
+<-TRANSLATEERR"imma fuck your fucking life nelze prelozit."
+->
+->TRANSLATELOC"imma fuck your fucking life"
+<-TRANSLATEERR"imma fuck your fucking life nelze prelozit."
+->
+->
+->
+->
+->
+->TRANSLATELOC"half"
+<-TRANSLATESUC"p�lka"
+->TRANSLATEREM"hat"
+<-TRANSLATEERR"hat nelze prelozit."
+->TRANSLATEREM"what"
+<-TRANSLATEERR"what nelze prelozit."
+->TRANSLATEREM"what"
+<-TRANSLATEERR"what nelze prelozit."
+->TRANSLATEREM"what"
+<-TRANSLATEERR"what nelze prelozit."
+->TRANSLATELOC"B
+<-TRANSLATEERR"Chyba s prekladem"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATELOC"team"
+<-TRANSLATESUC"t�m"
+->TRANSLATELOC"BABABOY"
+<-TRANSLATEERR"bababoy nelze prelozit."
+->
+->TRANSLATELOC"marker"
+<-TRANSLATEERR"marker nelze prelozit."
+->
+->TRANSLATELOC"DCVFSEDRTFGYNHUMJEDFRTGHUJIEDRFTGHUJI"
+<-TRANSLATEERR"dcvfsedrtfgynhumjedfrtghujiedrftghuji nelze prelozit."
+->TRANSLATEREM"what"
+->TRANSLATEREM"what"
+<-TRANSLATEERR"what nelze prelozit."
+->TRANSLATELOC"team"
+<-TRANSLATESUC"t�m"
+->TRANSLATEREM"cake"
+<-TRANSLATEERR"cake nelze prelozit."
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATELOC"TEAM"
+<-TRANSLATESUC"t�m"
+->TRANSLATEREM"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->TRANSLATEREM"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->TRANSLATELOC"half"
+<-TRANSLATESUC"p�lka"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATEREM"what"
+->TRANSLATELOC"team"
+<-TRANSLATESUC"t�m"
+->TRANSLATEREM"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->TRANSLATEREM"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->TRANSLATELOC"TEAM"
+<-TRANSLATESUC"t�m"
+->TRANSLATEREM"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->TRANSLATELOC"TWO"
+<-TRANSLATESUC"dva"
+->O"
+<-TRANSLATEERR"Chyba s prekladem"
+->s
+<-TRANSLATEERR"Chyba s prekladem"
+->w
+<-TRANSLATEERR"Chyba s prekladem"
+->wa
+<-TRANSLATEERR"Chyba s prekladem"
+->daw
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATEREM"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->TRANSLATEREM"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATELOC"FORTRESS"
+<-TRANSLATESUC"pevnost"
+->
+->TRANSLATEREM"shoes"
+<-
+->TRANSLATELOC"FORTRESS"
+<-TRANSLATESUC"pevnost"
+->
+->TRANSLATEREM"shoes"
+<-
+->TRANSLATEREM"shoes"
+<-
+->TRANSLATELOC"FORTRESS"
+<-TRANSLATESUC"pevnost"
+->
+->TRANSLATEREM"shoes"
+<-
+->TRANSLATEREM"shoes"
+<-
+->TRANSLATEREM"shoes"
+->TRANSLATELOC"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->
+->TRANSLATELOC"TEAM"
+<-TRANSLATESUC"t�m"
+->TRANSLATEREM"shoes"
+->TRANSLATELOC"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->
+->a
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATEREM"shoes"
+->TRANSLATELOC"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->
+->TRANSLATEREM"shoes"
+->
+->rem_connection.settimeout(3)
+<-TRANSLATEERR"Chyba s prekladem"
+->TRANSLATEREM"shoes"
+->TRANSLATELOC"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->->TRANSLATEREM"shoes"
+->TRANSLATELOC"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->
+->TRANSLATEREM"shoes"
+->TRANSLATELOC"shoes"
+<-TRANSLATEERR"shoes nelze prelozit."
+->
